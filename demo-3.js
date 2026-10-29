@@ -4,7 +4,7 @@ let angle = 360 / folds;
 function setup() {
   createCanvas(500, 400);
   angleMode(DEGREES);
-background(25, 20, 45);
+  background(25, 20, 45);
 }
 
 //draw gets called 60 times per second!!
