@@ -1,10 +1,6 @@
 let folds = 6; //how many folds do we want?
 let angle = 360 / folds;
 
-for (let i = 0; i < folds; i++) {
-
-}
-
 function setup() {
   createCanvas(500, 400);
   angleMode(DEGREES);
